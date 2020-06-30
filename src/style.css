@@ -1,0 +1,14 @@
+
+.city_choose-text {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.change_city {
+  display: none;
+}
+
+.city_change-text {
+  font-size: 17px;
+  font-weight: bold;
+}
